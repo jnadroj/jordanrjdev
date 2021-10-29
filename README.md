@@ -9,4 +9,7 @@
 
 I learned programming since I was 15 years old, in my free time I write small publications and tutorials in DEV Comunity to help people who want to enter the world of programming.
 
-With ❤️ Jordan 😊
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanrjdev&show_icons=true&layout=compact&langs_count=10&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=jordanrjdev&show_icons=true&theme=dark&count_private=true)
+
+With ❤️ Jordan
